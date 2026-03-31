@@ -17,3 +17,11 @@ A real-time object detection and tracking system built using **YOLOv8** (Ultraly
 - OpenCV
 - Streamlit (for user-friendly UI)
 
+## How to Run
+
+1. Clone or download the repository
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3.  streamlit run app.py
+4.  output:http://localhost:8501/
